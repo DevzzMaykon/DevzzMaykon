@@ -11,4 +11,5 @@
 <li> Criador de softwares!</p>
 
 <img src='https://c.tenor.com/_7r8RXryt3QAAAAM/python-powered.gif'>
-<img src='images.jpeg'>
+
+
